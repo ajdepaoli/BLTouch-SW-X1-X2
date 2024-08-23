@@ -1,5 +1,5 @@
 # BLTouch-ARTILLERY
-Artillery SideWinder X1 &amp; X2: falla de BLTOUCH
+Artillery SideWinder X1 &amp; X2: falla de BLTOUCH - BLTOUCH failure
 
 El pin del BLTOUCH se queda siempre adentro, no baja.
 -- Procedimiento de calibración de BLTOUCH --
