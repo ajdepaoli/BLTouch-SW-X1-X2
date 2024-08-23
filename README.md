@@ -2,10 +2,15 @@
 Artillery SideWinder X1 &amp; X2: falla de BLTOUCH - BLTOUCH failure
 
 El pin del BLTOUCH se queda siempre adentro, no baja.
+
 -- Procedimiento de calibración de BLTOUCH --
+
 1- POWER = OFF 
+
 2- Sacar tapa.
+
 3- POWER = ON
+
 4- En la parte superior del BLT hay un tornillo:
   4a- Subir el pin en caso de estar bajo.
   4b- Aflojar el tornillo hasta que el pin se caiga.
