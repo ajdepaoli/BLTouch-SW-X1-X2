@@ -1,4 +1,4 @@
-# BLTouch-SW-X1-X2
+# BLTouch-ARTILLERY
 Artillery SideWinder X1 &amp; X2: falla de BLTOUCH
 
 El pin del BLTOUCH se queda siempre adentro, no baja.
