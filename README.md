@@ -1,7 +1,7 @@
 # BLTouch-ARTILLERY
 Artillery SideWinder X1 &amp; X2: falla de BLTOUCH - BLTOUCH failure
 
-El pin del BLTOUCH se queda siempre adentro, no baja.
+El pin del BLTOUCH se queda siempre adentro, no baja, ERROR M999.
 
 -- Procedimiento de calibración de BLTOUCH --
 
