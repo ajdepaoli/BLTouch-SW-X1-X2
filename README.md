@@ -18,3 +18,4 @@ El pin del BLTOUCH se queda siempre adentro, no baja.
 7- POWER = ON.
 8- Verificar funcionamiento con TOOLS -- LEVEL, en caso de fallar 'Repetir procedimiento de calibracion de BLTOUCH'
 
+Saludos
